@@ -1,0 +1,13 @@
+body {
+  background-color: #e8ffff;
+}
+.from-area {
+  margin: 50px 0;
+}
+.main-form {
+  padding: 50px;
+  border-radius: 15px;
+  background: #de6161;
+  background: -webkit-linear-gradient(to right, #2657eb, #de6161);
+  background: linear-gradient(to right, #2657eb, #de6161);
+}
